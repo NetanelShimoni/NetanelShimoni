@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hi there 👋
+### My name is Netanel Shimoni, i am currently a third year student in computer science 💻
+ 
+ 
+ **I like to learn new things, create things, test them and most importantly develop 🔨**
 
-<!--
-**NetanelShimoni/NetanelShimoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ **I love the innovative technological world and am looking for a job to really connect to this world 🌍**
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Knowledge I learned during my studies
+* Operating Systems 📰
+* 🛢️ MySQL | SQLite | MongoDB 
+* 🗣 Java OPP | C++ | C |litel bit python
+* :octocat: Git | Github 
+* 📟 Linux | Windows
