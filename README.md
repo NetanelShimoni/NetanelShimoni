@@ -9,7 +9,7 @@
 
 ## ⚡ Knowledge I learned during my studies
 * Operating Systems 📰
-* 🛢️ MySQL | SQLite | MongoDB 
-* 🗣 Java OPP | C++ | C | Python (basic knowledge)
+* 🛢️ MySQL | SQLite | MongoDB | PostgreSQL
+* 🗣 Java OPP | C++ (OPP) | C | Python (basic knowledge)
 * :octocat: Git | Github 
 * 📟 Linux | Windows
